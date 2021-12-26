@@ -1,0 +1,14 @@
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csproj.AssemblyReference.cache
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfo.cs
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.exe
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.deps.json
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.json
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.dev.json
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\yurio\source\repos\DevOceanAcademyTask\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.genruntimeconfig.cache
